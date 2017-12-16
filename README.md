@@ -1,0 +1,2 @@
+# config
+nhsoft config server
